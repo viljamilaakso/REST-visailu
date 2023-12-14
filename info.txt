@@ -1,0 +1,2 @@
+Visassa jokainen voi lisäillä kysymyksiä ja niihin voidaan vastata sitä mukaan mitä niitä tulee. Kysymykset näkyvät ylälaidassa ja sen alla on vastaa kysymykseen ja taas tämän alla lisää kysymys
+Käytin visassa verkkokauppa tietokantaa aiemmista tehtävistä ja tein sinne questions taulun johon tulevat kysymys vastaus ja onko vastaus oikein
